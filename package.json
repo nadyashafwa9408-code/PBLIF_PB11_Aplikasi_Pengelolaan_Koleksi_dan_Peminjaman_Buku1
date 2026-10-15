@@ -1,0 +1,11 @@
+{
+  "name": "bukuin",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "pnpm --dir frontend run dev",
+    "build": "pnpm --dir frontend run build",
+    "preview": "pnpm --dir frontend run preview",
+    "format": "pnpm --dir frontend run format"
+  }
+}
